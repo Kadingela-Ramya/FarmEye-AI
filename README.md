@@ -15,14 +15,14 @@ I built this as part of my AI & ML final year to explore how deep learning can b
 
 ---
 
+
 ## Demo
 
-<!-- Add your screenshots here after taking them -->
-> Upload your screenshots to the assets/ folder and replace these lines
+### Detection Result
+![Detection Result](assets/detection_result.png)
 
-![Detection Result](assets/demo_detection.png)
-![Field Health Report](assets/field_health.png)
-
+### Field Health Assessment
+![Field Health](assets/field_health.png)
 ---
 
 ## How to run it locally
