@@ -23,7 +23,6 @@ I built this as part of my AI & ML final year to explore how deep learning can b
 
 ### Field Health Assessment
 ![Field Health](assets/field_health.png)
----
 
 ## How to run it locally
 
